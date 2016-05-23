@@ -1,0 +1,78 @@
+/*
+
+.button etc - styles all the buttons
+# style one thing - place id in main file..
+
+
+*/
+
+
+.root {
+
+    -fx-padding: 25, 25, 25, 25;
+    -fx-background-color: white;
+
+}
+
+.grid {
+    -fx-font-size: 10pt;
+    -fx-font-family: "tahoma";
+
+
+}
+
+
+/*.table {*/
+    /*-fx-background-color:white;*/
+    /*-fx-font-size: 7pt;*/
+    /*-fx-font-family: Arial;*/
+
+/*}*/
+
+
+/*.table-row-cell {*/
+    /*-fx-font-size: 9pt;*/
+    /*-fx-font-family: Arial;*/
+    /*-fx-cell-size: 50px;*/
+
+/*}*/
+
+
+/*.table-view .column-header .label{*/
+
+    /*-fx-font-size: 7pt;*/
+    /*-fx-text-fill: grey;*/
+
+/*}*/
+
+/*.table-row-cell:empty {*/
+    /*-fx-background-color: transparent;*/
+/*}*/
+
+/*.table-row-cell:empty .table-cell {*/
+    /*-fx-border-width: 0px;*/
+/*}*/
+
+
+
+/*.combo-box-popup .list-view .list-cell:filled:hover*/
+/*{*/
+    /*-fx-background-color: lightgrey;*/
+    /*-fx-text-fill: -fx-text-inner-color;*/
+/*}*/
+
+
+
+#ViewBtnStyle
+{
+    -fx-padding: 5 70 5 70;
+
+}
+
+
+#SaveBtnStyle
+{
+    -fx-padding: 7 70 7 70;
+}
+
+
